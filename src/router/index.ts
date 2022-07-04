@@ -28,6 +28,11 @@ const router = createRouter({
       name: "settings",
       component: () => import("@/views/SettingsView.vue"),
     },
+    {
+      path: "/edit-article",
+      name: "edit-article",
+      component: () => import("@/views/EditArticleView.vue"),
+    },
   ],
 });
 
