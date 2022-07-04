@@ -3,4 +3,5 @@
 
 <template>
   <TheHeader/>
+  <TheFooter/>
 </template>
