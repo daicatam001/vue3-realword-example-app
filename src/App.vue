@@ -3,5 +3,6 @@
 
 <template>
   <TheHeader/>
+  <router-view/>
   <TheFooter/>
 </template>
